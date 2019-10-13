@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1920 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Green-tea" serif:id="Green tea">
+        <g id="Base-chart" serif:id="Base chart">
+            <path id="Y-Axis" serif:id="Y Axis" d="M137.356,88.655C137.356,222.246 138.72,353.962 138.72,489.498" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path id="X-Axis" serif:id="X Axis" d="M990.774,490.282C707.01,490.282 427.227,490.405 139.331,490.405" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path id="Under-line" serif:id="Under line" d="M164.421,183.263C168.007,183.263 169.631,186.163 172.975,189.571C175.89,192.543 188.101,202.841 191.716,205.29C194.499,207.174 214.498,222.51 216.569,224.117C224.768,230.479 229.32,233.624 236.389,239.394C237.319,240.153 273.172,265.464 280.036,268.595C285.797,271.222 311.072,284.409 336.007,294.944C352.768,302.026 370.701,307.346 377.469,309.576C397.478,316.17 415.181,321.086 435.844,323.155C462.892,325.864 542.534,341.654 602.435,354.329C608.943,355.706 615.283,357.163 621.319,358.603C642.347,363.619 659.692,368.427 667.657,368.938C671.749,369.2 733.531,381.05 751.727,385.856C758.121,387.544 784.073,392.684 790.15,394.921C798.923,398.151 869.674,414.91 877.637,419.764C878.901,420.534 953.271,438.442 953.271,438.682" style="fill:none;stroke:black;stroke-width:1.5px;stroke-dasharray:1.5,7.5,0,0;"/>
+            <path id="Middle-line" serif:id="Middle line" d="M164.747,183.013C166.494,183.013 170.455,186.975 174.463,188.833C182.163,192.403 192.823,199.808 206.431,207.213C226.4,218.078 251.946,230.448 277.477,243.063C334.584,271.281 388.892,275.805 393.56,275.916C410.008,276.308 456.318,278.705 502.056,277.649C546.322,276.627 590.014,272.181 607.773,270.74C683.105,264.628 693.776,260.179 768.999,256.305C813.223,254.028 845.956,246.029 889.125,242.582C905.196,241.299 944.837,236.099 960.957,238.268C964.097,238.691 958.908,238.268 960.957,238.268" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path id="Top-line" serif:id="Top line" d="M164.522,183.13C170.884,185.122 186.115,187.895 192.511,191.093C197.192,193.434 219.381,201.885 235.899,205.382C260.335,210.555 282.322,218.936 286.61,219.308C309.41,221.283 336.88,228.757 359.596,230.683C384.285,232.777 411.524,234.938 431.408,232.158C443.163,230.515 447.749,229.458 462.616,228.222C468.537,227.73 491.787,222.339 497.523,221.099C519.724,216.302 541.8,207.055 563.274,200.763C575.206,197.267 670.99,158.569 688.295,152.747C694.206,150.759 793.967,109.526 798.434,107.717C802.974,105.878 842.361,89.802 846.402,87.385" style="fill:none;stroke:black;stroke-width:1.5px;stroke-dasharray:1.5,7.5,0,0;"/>
+        </g>
+        <g id="Y-axis-lines" serif:id="Y axis lines">
+            <path d="M157.782,97.853C153.96,97.853 141.31,97.956 138.158,98.025" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M157.782,183.499C153.96,183.499 141.31,183.603 138.158,183.671" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M157.782,271.399C153.96,271.399 141.31,271.503 138.158,271.572" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M157.782,361.554C153.96,361.554 141.31,361.657 138.158,361.726" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M157.782,446.073C153.96,446.073 141.31,446.177 138.158,446.245" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+        </g>
+        <g id="X-axis-lines" serif:id="X axis lines">
+            <path d="M164.408,488.989C164.408,484.93 164.582,467.699 164.582,467.666" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M324.431,488.989C324.431,484.93 324.605,467.699 324.605,467.666" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M481.074,488.989C481.074,484.93 481.248,467.699 481.248,467.666" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M639.971,488.989C639.971,484.93 640.145,467.699 640.145,467.666" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M801.121,488.989C801.121,484.93 801.295,467.699 801.295,467.666" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M957.764,488.989C957.764,484.93 957.938,467.699 957.938,467.666" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+        </g>
+        <g id="Y-Axis-Labels" serif:id="Y Axis Labels">
+            <g transform="matrix(1,0,0,1,89.245,279.459)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:27.046px;">0.9</text>
+            </g>
+            <g transform="matrix(1,0,0,1,89.245,369.613)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:27.046px;">0.8</text>
+            </g>
+            <g transform="matrix(1,0,0,1,89.245,455.259)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:27.046px;">0.7</text>
+            </g>
+            <g transform="matrix(1,0,0,1,89.245,192.685)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:27.046px;">1.0</text>
+            </g>
+            <g transform="matrix(1,0,0,1,89.245,108.166)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:27.046px;">1.1</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,416.304,564.399)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:26.639px;">Cups of green tea per day</text>
+        </g>
+        <g transform="matrix(2.77556e-17,-1,1,2.77556e-17,50.17,459.883)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:26.639px;">All-cause mortality (Relative Risk)</text>
+        </g>
+        <g id="X-Axis-labels" serif:id="X Axis labels">
+            <g transform="matrix(1,0,0,1,317.634,522.891)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:27.046px;">2</text>
+            </g>
+            <g transform="matrix(1,0,0,1,474.277,522.891)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:27.046px;">4</text>
+            </g>
+            <g transform="matrix(1,0,0,1,634.301,522.891)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:27.046px;">6</text>
+            </g>
+            <g transform="matrix(1,0,0,1,793.197,522.891)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:27.046px;">8</text>
+            </g>
+            <g transform="matrix(1,0,0,1,941.951,522.891)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:27.046px;">10</text>
+            </g>
+            <g transform="matrix(1,0,0,1,157.611,522.891)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:27.046px;">0</text>
+            </g>
+        </g>
+    </g>
+    <g id="Black-tea" serif:id="Black tea">
+        <g id="Base-chart1" serif:id="Base chart">
+            <path id="Y-Axis1" serif:id="Y Axis" d="M1143.16,52.206C1143.16,198.337 1142.72,342.417 1142.72,490.675" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path id="X-Axis1" serif:id="X Axis" d="M1889.92,491.361C1641.62,491.361 1396.8,491.469 1144.88,491.469" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+        </g>
+        <g id="Y-axis-lines1" serif:id="Y axis lines">
+            <path d="M1161.03,65.141C1157.68,65.141 1146.62,65.232 1143.86,65.292" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M1161.03,127.265C1157.68,127.265 1146.62,127.356 1143.86,127.416" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M1161.03,190.375C1157.68,190.375 1146.62,190.466 1143.86,190.526" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M1161.03,255.458C1157.68,255.458 1146.62,255.548 1143.86,255.608" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M1161.03,322.512C1157.68,322.512 1146.62,322.603 1143.86,322.663" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M1161.03,390.553C1157.68,390.553 1146.62,390.643 1143.86,390.703" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M1161.03,452.677C1157.68,452.677 1146.62,452.767 1143.86,452.827" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+        </g>
+        <g id="X-axis-lines1" serif:id="X axis lines">
+            <path d="M1166.83,490.229C1166.83,486.678 1166.98,471.6 1166.98,471.571" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M1267.41,490.229C1267.41,486.678 1267.56,471.6 1267.56,471.571" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M1365.03,490.229C1365.03,486.678 1365.18,471.6 1365.18,471.571" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M1464.63,490.229C1464.63,486.678 1464.78,471.6 1464.78,471.571" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M1564.22,490.229C1564.22,486.678 1564.37,471.6 1564.37,471.571" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M1662.83,490.229C1662.83,486.678 1662.98,471.6 1662.98,471.571" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M1763.41,490.229C1763.41,486.678 1763.56,471.6 1763.56,471.571" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M1861.04,490.229C1861.04,486.678 1861.19,471.6 1861.19,471.571" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1367.68,558.639)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:26.639px;">Cups of black tea per day</text>
+        </g>
+        <g transform="matrix(2.77556e-17,-1,1,2.77556e-17,1069.28,451.34)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:26.639px;">All-cause mortality (Relative Risk)</text>
+        </g>
+        <g id="Y-acis-numbers" serif:id="Y acis numbers">
+            <g transform="matrix(1,0,0,1,1088.67,71.637)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:23.666px;">1.10</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1088.67,136.72)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:23.666px;">1.05</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1088.67,197.858)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:23.666px;">1.00</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1088.67,261.954)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:23.666px;">0.95</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1088.67,330.98)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:23.666px;">0.90</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1088.67,400.007)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:23.666px;">0.85</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1088.67,462.131)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:23.666px;">0.80</text>
+            </g>
+        </g>
+        <g id="X-axis-labels" serif:id="X axis labels">
+            <g transform="matrix(1,0,0,1,1161.75,517.63)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:22.526px;">0</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1260.36,517.63)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:22.526px;">1</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1358.97,517.63)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:22.526px;">2</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1459.55,517.63)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:22.526px;">3</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1557.18,517.63)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:22.526px;">4</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1656.77,517.63)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:22.526px;">5</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1756.37,517.63)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:22.526px;">6</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1854.98,517.63)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:22.526px;">7</text>
+            </g>
+        </g>
+        <path id="Line-bottom" serif:id="Line bottom" d="M1167.02,190.522C1167.02,189.811 1171.23,200.284 1175.65,209.515C1178.52,215.497 1181.76,220.507 1183.01,223.135C1187.66,232.918 1193.33,242.648 1197.92,252.05C1203.56,263.6 1210.41,276.863 1218.05,288.363C1224.71,298.383 1237.56,321.086 1241.97,326.975C1245.23,331.314 1256.89,351.799 1261.11,357.891C1267.07,366.489 1271.17,371.989 1275.33,378.599C1281.34,388.168 1292.3,396.95 1300.51,404.873C1315.22,419.07 1329.12,430.703 1346.93,440.551C1352.44,443.596 1362.71,450.038 1372.13,453.315C1381.18,456.458 1389.68,458.242 1391.1,458.682C1397.85,460.782 1411.18,461.368 1421.94,461.768C1429.92,462.065 1447.66,461.329 1452.82,460.022C1457.51,458.834 1473.57,457.723 1484.9,454.795C1495.68,452.011 1509.12,448.504 1515.53,446.663C1531.26,442.15 1545.4,435.473 1558.72,429.57C1567.31,425.765 1574.84,423.039 1584.65,418.892C1588.21,417.384 1618.55,402.783 1631.05,398.081C1645.02,392.823 1681.71,378.897 1685.67,377.176C1698.51,371.597 1763.28,345.442 1782.45,338.154C1796.74,332.724 1821.47,323.962 1839.25,317.667C1849.63,313.99 1853.08,313.717 1860.61,308.063" style="fill:none;stroke:black;stroke-width:1.5px;stroke-dasharray:1.5,7.5,0,0;"/>
+        <path id="Line-top" serif:id="Line top" d="M1166.84,190.672C1169.82,190.672 1180.07,199.7 1190.53,207.419C1198.89,213.589 1207.5,218.511 1211.21,221.134C1216.08,224.58 1221.12,227.915 1225.66,230.778C1230.93,234.093 1235.92,236.198 1241.54,238.777C1250.12,242.722 1261.36,248.691 1270.6,251.694C1289.84,257.949 1309.53,260.49 1329.09,260.524C1337.78,260.54 1351.34,259.557 1360.03,257.326C1366.96,255.546 1374.88,252.263 1381.11,249.544C1389.21,246.007 1392.24,244.321 1400.61,240.83C1408.62,237.486 1417.14,233.732 1424.66,229.287C1437.58,221.658 1455.93,209.963 1467.94,200.363C1470.82,198.064 1475.11,194.443 1478.45,191.622C1487.81,183.719 1496.45,176.455 1505.75,168.288C1510.38,164.223 1515.1,159.413 1519.4,155.501C1524.46,150.907 1530.73,144.127 1535.73,138.965C1542.47,132.003 1548.1,127.343 1554.05,120.238C1560.7,112.294 1568.33,104.291 1575.21,96.446C1577.78,93.52 1591.8,76.75 1594.71,72.839C1598.32,67.989 1602.79,63.41 1607.14,58.917" style="fill:none;stroke:black;stroke-width:1.5px;stroke-dasharray:1.5,7.5,0,0;"/>
+        <path id="Line-Middle" serif:id="Line Middle" d="M1167,190.61C1172.94,197.143 1176.73,205.307 1182.16,211.914C1185.49,215.967 1188.89,220.654 1191.53,223.983C1195.64,229.173 1200.16,234.492 1202.94,239.45C1205.37,243.78 1220.96,260.433 1224.15,263.919C1226.83,266.84 1237.43,280.333 1241.73,283.563C1244.86,285.907 1256.62,299.559 1260.11,302.145C1263.9,304.954 1281.82,320.039 1286.94,322.599C1292.31,325.286 1299.83,330.403 1305.24,333.466C1314.48,338.702 1320.98,342.062 1330.91,346.342C1341.94,351.098 1343.57,349.898 1355.17,350.982C1363.81,351.789 1380.88,352.797 1393.69,351.117C1400.24,350.259 1406.71,349.851 1411.04,348.759C1413.87,348.047 1418.09,347.756 1421.47,346.882C1424.78,346.026 1427.19,345.199 1430.09,344.332C1432.28,343.677 1442.77,340.474 1452.67,336.212C1467.82,329.686 1486.34,318.704 1496.79,313.423C1501.06,311.264 1517.58,301.568 1522.37,298C1529.81,292.45 1539.31,286.817 1547.77,280.465C1555.96,274.308 1563.1,267.431 1571.13,262.079C1578.21,257.354 1586.9,249.037 1592.69,244.089C1600.28,237.604 1604.77,234.097 1612.77,228.044C1636.26,210.277 1657,190.24 1680.3,172.841C1686.19,168.44 1692.14,163.799 1698.13,159.508C1702.5,156.37 1719.34,141.272 1739.14,125.101C1760.7,107.5 1785.61,87.366 1798.3,76.648C1804.16,71.695 1827.33,52.441 1827.67,52.441" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+    </g>
+</svg>
